@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Color Switche</title>
+    <link rel="stylesheet" href="style.css">   
+</head>
+
+<body>
+
+    <h1>Color Switche Exercise</h1>
+
+    <p id="texto">Try clicking on one of the colors below to change the page color.</p>
+
+    <div id="buttons">
+        <input type="button" value="Blue" id="blue" onclick="blue()">
+        <input type="button" value="Red" id="red" onclick="red()">
+        <input type="button" value="Yellow" id="yellow" onclick="yellow()">
+        <input type="button" value="Green" id="green" onclick="green()">
+        <input type="button" value="Original" id="original" onclick="original()">
+    </div>
+
+<script>
+
+    function blue(){
+        var back1 = window.document.getElementById('blue')
+        window.document.body.style.background = '#63aae4'
+    }
+
+    function red(){
+        window.document.body.style.background = '#9c3d3d'
+    }
+
+    function yellow(){
+        window.document.body.style.background = '#faf16d'
+    }
+
+    function green(){
+        window.document.body.style.background = '#0e9762'
+    }
+
+    function original(){
+        window.document.body.style.background = '#ffffff'
+    }
+
+    </script>
+</body>
+</html>

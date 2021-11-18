@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Gloria+Hallelujah&family=Handlee&family=Jost:wght@300;400&family=Nothing+You+Could+Do&family=Noto+Sans:wght@400;700&family=Open+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Gloria+Hallelujah&family=Handlee&family=Jost:wght@300;400&family=Nothing+You+Could+Do&family=Noto+Sans:wght@400;700&family=Open+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap');
+
+        body{
+            background: #ffffff;
+            font-size: 20px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        h1{
+            text-align: center;
+            margin-top: 90px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+            font-weight: 900;
+            font-size: 3em;
+        }
+
+        #buttons{
+            font-size: 80px;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        #texto{
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        #blue{
+            background-color:#63aae4;
+            font-size: 40px;
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+        }
+
+        #red{
+            background-color:#9c3d3d;
+            font-size: 40px;
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+        }
+
+        #green{
+            background-color:#0e9762;
+            font-size: 40px;
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+        }
+
+        #yellow{
+            background-color:#faf16d;
+            font-size: 40px;
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+        }
+
+        #original{
+            background-color:#ffffff;
+            font-size: 40px;
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Abril Fatface', cursive;
+            font-family: 'Anton', sans-serif;
+            font-family: 'Gloria Hallelujah', cursive;
+            font-family: 'Handlee', cursive;
+            font-family: 'Jost', sans-serif;
+            font-family: 'Nothing You Could Do', cursive;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
+            font-family: 'Playfair Display', serif;
+        }
+    
