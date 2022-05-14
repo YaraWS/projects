@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Prompt:wght@500&family=Special+Elite&display=swap');
+body {
+    background-image: url("images/sky.png") ;
+    background-size: cover;
+    font-family: 'Prompt', sans-serif;
+    
+}
+
+h1 {
+    color: #e6f8fae7;
+    text-shadow: 2px 2px #3c387c;
+    text-align: center;
+    margin: 25px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    
+}
+
+#typing{
+    color:#e6f8fae7;
+    background-color:  #413f68;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    font-size: 24px;
+    
+    
+}
+
+#writeBack {
+    color:  #413f68;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    background-color: #e6f8fae7;
+    word-break: break-all;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#typing {
+    word-break: break-all;
+}
+
+#typingDiv {
+    display: block;
+    text-align: center;
+}
